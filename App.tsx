@@ -73,7 +73,7 @@ const Notes = () => {
                 style={styles.button}
                 onPress={() => handleExecute()}
               >
-                <Text style={styles.appText}> + </Text>
+                <Text style={styles.appText}> Agregar </Text>
               </TouchableOpacity>
             </View>
           </View>
